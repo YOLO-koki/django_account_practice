@@ -1,0 +1,9 @@
+project/manage.py
+project/db.sqlite3
+project/project/__init__.py
+project/project/asgi.py
+project/project/wsgi.py
+project/app1/migrations/__init__.py
+project/app1/__init__.py
+project/app1/admin.py
+project/app1/tests.py
